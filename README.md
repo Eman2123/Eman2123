@@ -12,7 +12,7 @@
 ## 👩‍💻 About Me
 
 - 🔭 Currently building a **Repair Shop Management SaaS** — multi-role platform with Next.js 14
-- 💻 Full Stack Developer with strong focus on **Backend & Python**
+- 💻 Full Stack Developer with a strong focus on **Backend & Python**
 - 🐍 Python is my primary language — AI agents, automation, chatbots
 - 🌱 Always exploring new things in **AI, APIs & scalable architecture**
 - 🤝 Open to collaborating on full stack or AI-powered projects
@@ -69,16 +69,16 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🤖 AI Voice Assistant</h3>
+      <h3 align="center">🧠 Bob RepoIQ</h3>
       <p align="center">
-        <a href="https://github.com/Eman2123/AI-Voice-Assistance">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eman2123&repo=AI-Voice-Assistance&theme=tokyonight&hide_border=true" />
+        <a href="https://github.com/Eman2123/Bob-RepoIQ">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eman2123&repo=Bob-RepoIQ&theme=tokyonight&hide_border=true" />
         </a>
       </p>
-      <p align="center">Voice-controlled intelligent virtual assistant that listens, understands, and responds to spoken commands</p>
+      <p align="center">AI-powered codebase analyzer that translates code into plain English for business owners using watsonx.ai</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/IBM_watsonx-1261FE?style=flat-square&logo=ibm&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -111,16 +111,16 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🧠 Bob RepoIQ</h3>
+      <h3 align="center">🎙️ AI Voice Assistant</h3>
       <p align="center">
-        <a href="https://github.com/Eman2123/Bob-RepoIQ">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eman2123&repo=Bob-RepoIQ&theme=tokyonight&hide_border=true" />
+        <a href="https://github.com/Eman2123/AI-Voice-Assistance">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eman2123&repo=AI-Voice-Assistance&theme=tokyonight&hide_border=true" />
         </a>
       </p>
-      <p align="center">AI-powered codebase analyzer that translates code into plain English for business owners using watsonx.ai</p>
+      <p align="center">Voice-controlled intelligent virtual assistant that listens, understands, and responds to spoken commands</p>
       <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/IBM_watsonx-1261FE?style=flat-square&logo=ibm&logoColor=white" />
       </p>
     </td>
     <td width="50%">
@@ -138,6 +138,18 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 🐍 Snake Contribution Grid Animation
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eman2123/Eman2123/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eman2123/Eman2123/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Eman2123/Eman2123/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
