@@ -91,72 +91,57 @@ I'm an **AI + Full-Stack developer** who enjoys turning ideas into practical, wo
 ## 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
+<tr><td width="50%" valign="top">
 
 ### 🔧 Repair Shop SaaS
-
 Multi-role repair management platform with owner, manager, technician, driver and customer portals.
 
 `Next.js` `TypeScript` `Tailwind`
 
 <a href="https://github.com/Eman2123/repair-saas"><img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-</td>
-<td width="50%" valign="top">
+</td><td width="50%" valign="top">
 
 ### 📰 VerifiNews
-
 🛡️ AI-powered fake news detection platform with intelligent analysis and a complete dashboard.
 
 `Python` `FastAPI` `Next.js` `Hugging Face`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</td></tr>
+<tr><td width="50%" valign="top">
 
 ### 🧠 Bob RepoIQ
-
 AI-powered codebase analyzer for understanding complex repositories with watsonx.ai.
 
 `JavaScript` `IBM watsonx` `AI`
 
 <a href="https://github.com/Eman2123/Bob-RepoIQ"><img src="https://img.shields.io/badge/VIEW%20PROJECT-0EA5E9?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-</td>
-<td width="50%" valign="top">
+</td><td width="50%" valign="top">
 
 ### 🤖 AI Agent Chatbot
-
 Intelligent chatbot focused on conversations, agent workflows and task automation.
 
 `Python` `AI Agents` `Automation`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</td></tr>
+<tr><td width="50%" valign="top">
 
 ### 🍽️ Restaurant Management
-
 Laravel-based system for menus, orders, sales and administrative workflows.
 
 `Laravel` `PHP` `MySQL`
 
 <a href="https://github.com/Eman2123/Restaurant-Management-System"><img src="https://img.shields.io/badge/VIEW%20PROJECT-14B8A6?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-</td>
-<td width="50%" valign="top">
+</td><td width="50%" valign="top">
 
 ### ✨ More Builds
-
 Exploring AI, automation, developer tools and intelligent applications.
 
 <a href="https://github.com/Eman2123?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-F59E0B?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-</td>
-</tr>
+</td></tr>
 </table>
 
 ---
@@ -164,14 +149,10 @@ Exploring AI, automation, developer tools and intelligent applications.
 ## 📊 GitHub Analytics
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Eman2123&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eman2123&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" />
-
 <br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eman2123&theme=radical&hide_border=true" width="65%" />
-
 </div>
 
 ---
@@ -179,15 +160,55 @@ Exploring AI, automation, developer tools and intelligent applications.
 ## 🎯 Current Focus
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/🤖%20AI%20AGENTS-BUILDING-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/🐍%20PYTHON-BUILDING-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/🌐%20FULL--STACK-BUILDING-0EA5E9?style=for-the-badge" />
 <img src="https://img.shields.io/badge/⚡%20AUTOMATION-EXPLORING-14B8A6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/🧠%20SYSTEM%20DESIGN-LEARNING-F59E0B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/☁️%20CLOUD%20%26%20DEVOPS-GROWING-E11D48?style=for-the-badge" />
+</div>
+
+---
+
+## 🧩 Things I Love Building
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">🤖<br/><b>AI Agents</b><br/><sub>Agents that reason, use tools & act</sub></td>
+<td align="center" width="25%">⚡<br/><b>Automation</b><br/><sub>Turning repetitive work into workflows</sub></td>
+<td align="center" width="25%">🌐<br/><b>Web Apps</b><br/><sub>Useful, modern & responsive products</sub></td>
+<td align="center" width="25%">🧠<br/><b>Developer Tools</b><br/><sub>Tools that make coding easier</sub></td>
+</tr>
+</table>
 
 </div>
+
+---
+
+## 📚 Currently Exploring
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🧠%20LLM%20Applications-LEARNING-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🤖%20Agentic%20AI-EXPLORING-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⚙️%20Advanced%20Automation-BUILDING-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/☁️%20Cloud%20Deployment-GROWING-14B8A6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🏗️%20System%20Design-LEARNING-F59E0B?style=for-the-badge" />
+
+</div>
+
+---
+
+## 💡 Quick Facts
+
+- ☕ Coffee + code = dangerous combination
+- 🧩 I enjoy debugging problems that refuse to make sense
+- 🔥 I like building projects instead of only watching tutorials
+- 🌱 Always experimenting with a new tool, framework or AI workflow
+- 🎯 I care about **useful products**, not just pretty demos
+- 🌍 Interested in collaborating with developers from around the world
 
 ---
 
@@ -206,15 +227,11 @@ Exploring AI, automation, developer tools and intelligent applications.
 ## 🌐 Let's Connect
 
 <div align="center">
-
 <a href="mailto:mirzaeman942@gmail.com"><img src="https://img.shields.io/badge/Gmail-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/eman-mirza-926035249/"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Eman2123"><img src="https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
 <br/><br/>
-
 **💜 Build. Learn. Automate. Ship. Repeat. 🚀**
-
 </div>
 
 <br/>
