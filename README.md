@@ -29,7 +29,7 @@
 
 ### 👩🏻‍💻 Hey, I'm Eman!
 
-I'm a **AI + Full-Stack developer** who enjoys turning ideas into practical, working software.
+I'm an **AI + Full-Stack developer** who enjoys turning ideas into practical, working software.
 
 - 🤖 **AI/ML** — intelligent applications, LLM workflows & AI agents
 - 🐍 **Python** — backend development, automation & data/ML work
@@ -241,30 +241,6 @@ I enjoy hackathons because they force me to **learn fast, experiment with new te
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eman2123&theme=radical&hide_border=true" width="65%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eman2123&theme=redical&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Eman2123/Eman2123/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%" />
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Eman2123&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 
 </div>
 
