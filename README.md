@@ -1,18 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:1e1b4b,70:7e22ce,100:06b6d4&height=230&section=header&text=EMAN%20MIRZA&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=AI%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER%20%7C%20BUILDER&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0ea5e9&height=200&section=header&text=Eman%20Mirza&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20%C2%B7%20Next.js%20%C2%B7%20Laravel&descAlignY=58&descColor=bae6fd" />
 
-<img src="https://raw.githubusercontent.com/Eman2123/Eman2123/main/assets/girl-programmer.svg" width="360" alt="Eman hacker girl programmer"/>
+<img src="./assets/anime-girl.svg" alt="anime girl coding" width="700" />
 
-### 🕶️ `whoami` — AI girl building things with code
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=A78BFA&center=true&vCenter=true&width=760&lines=%3E+building+AI+agents...;%3E+turning+ideas+into+products...;%3E+Python+%7C+AI%2FML+%7C+React+%7C+Next.js;%3E+hackathons+%2B+automation+%2B+full-stack" alt="Hacker typing animation"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Eman2123&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Eman2123?label=FOLLOWERS&color=06b6d4&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/STATUS-BUILDING-ec4899?style=for-the-badge"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=Eman2123&label=Profile%20Views&color=0ea5e9&style=flat)](https://github.com/Eman2123)
+[![GitHub Followers](https://img.shields.io/github/followers/Eman2123?label=Followers&style=social)](https://github.com/Eman2123?tab=followers)
 
 </div>
 
@@ -20,152 +13,222 @@
 
 ## 👩‍💻 About Me
 
+- 🔭 Currently building a **Repair Shop Management SaaS** — multi-role platform with Next.js 14
+- 💻 Full Stack Developer with strong focus on **Backend & Python**
+- 🐍 Python is my primary language — AI agents, automation, chatbots
+- 🌱 Always exploring new things in **AI, APIs & scalable architecture**
+- 🤝 Open to collaborating on full stack or AI-powered projects
+- 📫 Reach me: **mirzaeman942@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+**Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Cloud & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![IBM Watson](https://img.shields.io/badge/IBM_watsonx-1261FE?style=for-the-badge&logo=ibm&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Cybersecurity**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
 <table>
-<tr>
-<td width="62%" valign="top">
-
-```text
-╔══════════════════════════════════════╗
-║       EMAN'S TERMINAL               ║
-╠══════════════════════════════════════╣
-║ $ whoami                            ║
-║ > AI/ML + Full-Stack Developer      ║
-║                                      ║
-║ $ mission                            ║
-║ > Build useful intelligent products ║
-║                                      ║
-║ $ current_mode                       ║
-║ > learn → build → break → repeat   ║
-╚══════════════════════════════════════╝
-```
-
-I'm **Eman Mirza**, a final-year **BSCS student from Pakistan** focused on **AI/ML, AI agents, automation and full-stack development**.
-
-I enjoy taking ideas from **concept → prototype → real product** and experimenting with new developer and AI tooling.
-
-</td>
-<td width="38%" valign="top">
-
-### ⚡ Current Mission
-
-🧠 AI Agents
-
-🤖 LLM Applications
-
-⚙️ Automation
-
-💻 Full-Stack Apps
-
-🏆 Hackathons
-
-🌍 Remote Opportunities
-
-</td>
-</tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔧 Repair Shop SaaS</h3>
+      <p align="center">
+        <a href="https://github.com/Eman2123/repair-saas">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eman2123&repo=repair-saas&theme=tokyonight&hide_border=true" />
+        </a>
+      </p>
+      <p align="center">Multi-role repair shop management platform with owner, manager, technician, driver & customer portals</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🤖 AI Voice Assistant</h3>
+      <p align="center">
+        <a href="https://github.com/Eman2123/AI-Voice-Assistance">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eman2123&repo=AI-Voice-Assistance&theme=tokyonight&hide_border=true" />
+        </a>
+      </p>
+      <p align="center">Voice-controlled intelligent virtual assistant that listens, understands, and responds to spoken commands</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💬 AI Agent Chatbot System</h3>
+      <p align="center">
+        <a href="https://github.com/Eman2123/Ai-Agent-Chatbot-System">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eman2123&repo=Ai-Agent-Chatbot-System&theme=tokyonight&hide_border=true" />
+        </a>
+      </p>
+      <p align="center">Intelligent chatbot system with natural conversation capabilities and task automation</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🍽️ Restaurant Management</h3>
+      <p align="center">
+        <a href="https://github.com/Eman2123/Restaurant-Management-System">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eman2123&repo=Restaurant-Management-System&theme=tokyonight&hide_border=true" />
+        </a>
+      </p>
+      <p align="center">Laravel-based restaurant system managing menu, orders & sales via admin dashboard</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧠 Bob RepoIQ</h3>
+      <p align="center">
+        <a href="https://github.com/Eman2123/Bob-RepoIQ">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eman2123&repo=Bob-RepoIQ&theme=tokyonight&hide_border=true" />
+        </a>
+      </p>
+      <p align="center">AI-powered codebase analyzer that translates code into plain English for business owners using watsonx.ai</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/IBM_watsonx-1261FE?style=flat-square&logo=ibm&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🤖 AI Agent Chatbot v1</h3>
+      <p align="center">
+        <a href="https://github.com/Eman2123/AI-Agent-Chatbot">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eman2123&repo=AI-Agent-Chatbot&theme=tokyonight&hide_border=true" />
+        </a>
+      </p>
+      <p align="center">First version of the AI assistant — conversational agent with task execution capabilities</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 🧠 Tech Arsenal
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,nextjs,typescript,javascript,nodejs,fastapi,laravel,php,mysql,mongodb,docker,git,github,figma,vercel,vscode&perline=10"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Eman2123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eman2123&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eman2123&theme=tokyonight&hide_border=true" width="60%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eman2123&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
-## 🚀 Featured Builds
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Eman2123/Eman2123/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake game" />
+<img src="https://raw.githubusercontent.com/Eman2123/Eman2123/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake game" />
+</div>
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
-| Project | What I Built | Stack |
-|:---:|:---|:---:|
-| 🔧 **Repair Shop SaaS** | Multi-role repair business management platform | `Next.js` `TypeScript` |
-| 🧠 **Bob RepoIQ** | AI codebase analyzer powered by watsonx.ai | `JavaScript` `AI` |
-| 🤖 **AI Agent Chatbot** | Conversational AI + task execution | `Python` `AI` |
-| 🎙️ **AI Voice Assistant** | Voice-controlled intelligent assistant | `JavaScript` `Voice AI` |
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirzaeman942@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eman-mirza-926035249/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/eman_12137)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eman2123)
 
 </div>
 
 ---
 
-## 🐍 Contribution Game
-
 <div align="center">
-
-### 🎮 Snake Mode: ON
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake game" width="95%"/>
-
-**Keep coding → feed the snake → don't break the streak. 🐍⚡**
-
-</div>
-
----
-
-## 📊 GitHub Command Center
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Eman2123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eman2123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Eman2123&theme=tokyonight&hide_border=true" width="70%"/>
-
-</div>
-
----
-
-## 🎮 Developer Arcade
-
-<div align="center">
-
-```text
-╭────────────────────────────────────────────╮
-│  LEVEL       AI BUILDER                    │
-│  XP          ███████████████░░░  85%       │
-│  CLASS       HACKER / ENGINEER             │
-│  WEAPON      PYTHON + AI                   │
-│  SPECIAL     AUTOMATION                    │
-│  QUEST       BUILD SOMETHING USEFUL        │
-╰────────────────────────────────────────────╯
-```
-
-`🐍 SNAKE` · `🤖 AI` · `⚡ AUTOMATION` · `💻 CODE` · `🚀 SHIP`
-
-</div>
-
----
-
-## 🏆 Build • Break • Learn • Repeat
-
-<div align="center">
-
-> **I don't just want to write code. I want to build things people actually use.**
-
-`AI Agents` · `AI/ML` · `Automation` · `Full Stack` · `Developer Tools` · `Open Source`
-
-</div>
-
----
-
-## 🌐 Connect
-
-<div align="center">
-
-<a href="mailto:mirzaeman942@gmail.com"><img src="https://img.shields.io/badge/EMAIL-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/eman-mirza-926035249/"><img src="https://img.shields.io/badge/LINKEDIN-06b6d4?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://discord.com/users/eman_12137"><img src="https://img.shields.io/badge/DISCORD-ec4899?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://github.com/Eman2123"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-### `> system.out.println("Keep building 🚀");`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:1e1b4b,70:7e22ce,100:06b6d4&height=130&section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0ea5e9&height=100&section=footer" />
 </div>
