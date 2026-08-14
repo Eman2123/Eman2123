@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%2C%20I'm%20Eman%20Mirza&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20Python%20%C2%B7%20Next.js%20%C2%B7%20Laravel%20%C2%B7%20AI&descAlignY=58&descColor=d8e9ff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%2C%20I'm%20Eman%20Mirza&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Final-Year%20BSCS%20Student%20%7C%20AI%20%2B%20Full-Stack%20Developer&descAlignY=58&descColor=d8e9ff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+apps;Backend-first+%7C+Python+%2B+FastAPI+%2B+Laravel;AI-powered+products+%26+automation;Always+shipping+something+new+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+apps;Python+%2B+FastAPI+%2B+Next.js;AI+agents+%26+automation;Always+learning+%26+shipping+%F0%9F%9A%80" />
+
+<br/>
+
+<img src="./assets/hijabi-coder.jpg" width="420" alt="Anime hijabi developer coding" />
 
 <br/>
 
@@ -18,19 +22,20 @@
 
 ```yaml
 name: Eman Mirza
-role: Full Stack Software Engineer
-focus: Backend Architecture · AI Integration · Scalable Web Apps
-currently_building: Repair Shop Management SaaS (multi-role, Next.js 14)
+role: Final-Year BSCS Student | AI & Full-Stack Developer
+focus: AI/ML · Python · Automation · Backend Architecture · Full-Stack Development
+currently_building: Repair Shop Management SaaS + AI-powered projects
 languages_spoken: [English, Urdu/Hindi]
 fun_fact: "I turn hackathon deadlines into shipped products"
 ```
 
-- 🔭 Currently building a **multi-tenant Repair Shop SaaS** with role-based dashboards (owner, manager, technician, driver, customer)
-- 🐍 **Python** is my primary language — backend systems, AI agents, automation
-- 🌐 Comfortable across the **full stack**: React/Next.js frontends → FastAPI/Laravel backends → cloud deployment
-- 🏆 Active hackathon participant — I like building real, working products under pressure
-- 🌱 Currently deepening my understanding of **system design, DevOps & cloud infra**
-- 🤝 Open to collaborating on full-stack or AI-powered projects
+- 🎓 Final-year **BSCS student** focused on building real-world software
+- 🐍 **Python** is my primary language — AI/ML, backend systems, agents & automation
+- 🤖 Interested in **AI agents, intelligent apps, automation and ML-powered products**
+- 🌐 Comfortable across the **full stack**: React/Next.js → FastAPI/Laravel → databases → deployment
+- 🏆 Active hackathon participant — I enjoy turning ideas into working products under pressure
+- 🌱 Currently deepening my understanding of **system design, DevOps & cloud infrastructure**
+- 🤝 Open to collaborating on **AI, automation and full-stack projects**
 - 📫 Reach me: **mirzaeman942@gmail.com**
 
 ---
@@ -116,9 +121,7 @@ fun_fact: "I turn hackathon deadlines into shipped products"
     </td>
     <td width="50%">
       <h3 align="center">📰 VerifiNews</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/AI--Powered-Fake_News_Detector-0EA5E9?style=for-the-badge" />
-      </p>
+      <p align="center"><img src="https://img.shields.io/badge/AI--Powered-Fake_News_Detector-0EA5E9?style=for-the-badge" /></p>
       <p align="center">AI-powered fake news detection app with full admin dashboard, deployed on Vercel</p>
       <p align="center">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -162,9 +165,7 @@ fun_fact: "I turn hackathon deadlines into shipped products"
         </a>
       </p>
       <p align="center">Intelligent chatbot system with natural conversation capabilities and task automation</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      </p>
+      <p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></p>
     </td>
   </tr>
 </table>
