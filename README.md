@@ -117,30 +117,13 @@ fun_fact: "I turn hackathon deadlines into shipped products"
     <td width="50%">
       <h3 align="center">📰 VerifiNews</h3>
       <p align="center">
-        <a href="https://github.com/Eman2123">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eman2123&repo=VerifiNews&theme=tokyonight&hide_border=true" />
-        </a>
+        <img src="https://img.shields.io/badge/AI--Powered-Fake_News_Detector-0EA5E9?style=for-the-badge" />
       </p>
       <p align="center">AI-powered fake news detection app with full admin dashboard, deployed on Vercel</p>
       <p align="center">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
         <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎯 Face Attendance System</h3>
-      <p align="center">
-        <a href="https://github.com/Eman2123">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eman2123&repo=Face-Attendance&theme=tokyonight&hide_border=true" />
-        </a>
-      </p>
-      <p align="center">Full attendance system with facial recognition, reports & holiday calendar management</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       </p>
     </td>
     <td width="50%">
