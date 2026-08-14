@@ -1,53 +1,78 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%2C%20I'm%20Eman%20Mirza&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%2B%20Full-Stack%20Developer%20%7C%20Python%20%2B%20Automation%20%2B%20Web&descAlignY=58&descColor=d8e9ff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,35:0ea5e9,70:06b6d4,100:22c55e&height=240&section=header&text=Hi%2C%20I'm%20Eman%20Mirza%20%F0%9F%91%8B&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Python%20%7C%20Full-Stack%20%7C%20Automation&descAlignY=60&descColor=f0f9ff&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=0EA5E9&center=true&vCenter=true&width=700&lines=Building+AI-powered+products;Python+%7C+FastAPI+%7C+Next.js+%7C+Laravel;AI+Agents+%26+Automation;Full-Stack+Development+%7C+Cloud+%7C+DevOps;Turning+ideas+into+working+products+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=7C3AED&center=true&vCenter=true&width=850&lines=AI-powered+products+%F0%9F%A4%96;Python+%2B+FastAPI+%2B+Next.js+%F0%9F%90%8D;AI+Agents+%26+Automation+%E2%9A%A1;Full-Stack+Development+%F0%9F%8C%90;Hackathons+%7C+Open+Source+%7C+Building+%F0%9F%9A%80" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Eman2123&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge)](https://github.com/Eman2123)
-[![Followers](https://img.shields.io/github/followers/Eman2123?label=FOLLOWERS&style=for-the-badge&color=0ea5e9)](https://github.com/Eman2123?tab=followers)
-[![GitHub](https://img.shields.io/badge/GitHub-Eman2123-181717?style=for-the-badge&logo=github)](https://github.com/Eman2123)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eman-mirza-926035249/)
+<img src="https://komarev.com/ghpvc/?username=Eman2123&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Eman2123?label=FOLLOWERS&style=for-the-badge&color=0ea5e9" />
+<img src="https://img.shields.io/github/stars/Eman2123?label=STARS&style=for-the-badge&color=f59e0b" />
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Full--Stack-14B8A6?style=for-the-badge" />
+
+<br/><br/>
+
+<a href="https://github.com/Eman2123"><img src="https://img.shields.io/badge/GitHub-Eman2123-181717?style=for-the-badge&logo=github" /></a>
+<a href="https://www.linkedin.com/in/eman-mirza-926035249/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
+<a href="mailto:mirzaeman942@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
 ---
 
-## 👩🏻‍💻 About Me
+## 🌈 About Me
 
-```yaml
-name: Eman Mirza
-role: AI & Full-Stack Developer
-focus: AI/ML · Python · Automation · Backend Architecture · Full-Stack Development
-currently_building: AI-powered applications + full-stack products
-open_to: Remote internships · Collaborations · Hackathons · Open Source
+<table>
+<tr>
+<td width="60%">
+
+### 👩🏻‍💻 Hey, I'm Eman!
+
+I'm a **BSCS student and AI + Full-Stack developer** who enjoys turning ideas into practical, working software.
+
+- 🤖 **AI/ML** — intelligent applications, LLM workflows & AI agents
+- 🐍 **Python** — backend development, automation & data/ML work
+- 🌐 **Full Stack** — React, Next.js, TypeScript & modern UI
+- ⚙️ **Backend** — FastAPI, Laravel, Node.js & REST APIs
+- ☁️ **Cloud & DevOps** — Docker, Linux, Vercel, Vultr & CI/CD
+- 🏆 **Hackathons** — rapid prototyping and shipping real products
+- 🌍 Interested in **remote international opportunities & collaborations**
+
+</td>
+<td width="40%">
+
+```text
+╭────────────────────────╮
+│   💜 CURRENTLY INTO    │
+├────────────────────────┤
+│ 🤖 AI Agents           │
+│ 🐍 Python              │
+│ ⚡ Automation          │
+│ 🌐 Full Stack          │
+│ ☁️ Cloud & DevOps      │
+│ 🧠 System Design       │
+│ 🚀 Hackathons          │
+╰────────────────────────╯
 ```
 
-I enjoy building **practical software that solves real problems** — from AI agents and automation workflows to full-stack SaaS platforms and intelligent applications.
-
-- 🤖 Building with **AI/ML, AI agents, LLM-powered workflows & automation**
-- 🐍 Strong focus on **Python, FastAPI and backend engineering**
-- 🌐 Building modern interfaces with **React, Next.js, TypeScript & Tailwind CSS**
-- ⚙️ Working with **Laravel, Node.js, REST APIs and databases**
-- ☁️ Exploring **Docker, Linux, Vercel, Vultr, CI/CD and cloud deployment**
-- 🏆 Active in **AI, developer and hackathon projects**
-- 🤝 Interested in **international remote opportunities and technical collaborations**
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 What I Work With
+## ⚡ My Core Areas
 
 <div align="center">
 
-| 🤖 AI & Data | 🌐 Full Stack | ⚙️ Backend | ☁️ DevOps |
-|:---:|:---:|:---:|:---:|
-| AI/ML | React | Python | Docker |
-| AI Agents | Next.js | FastAPI | Linux |
-| LLM APIs | TypeScript | Laravel | Vercel |
-| Hugging Face | Tailwind CSS | Node.js | Vultr |
-| Automation | Vite | REST APIs | GitHub Actions |
+| 🤖 **AI & ML** | 🐍 **Python** | 🌐 **Full Stack** | ⚙️ **Automation** | ☁️ **Cloud** |
+|:---:|:---:|:---:|:---:|:---:|
+| AI Agents | FastAPI | React | Workflows | Docker |
+| LLM APIs | Flask | Next.js | Web Automation | Linux |
+| Hugging Face | NumPy | TypeScript | API Automation | Vercel |
+| ML Apps | Pandas | Tailwind | Intelligent Tools | Vultr |
+| AI Integration | PyTorch | REST APIs | Selenium/Playwright | CI/CD |
 
 </div>
 
@@ -81,7 +106,7 @@ I enjoy building **practical software that solves real problems** — from AI ag
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🗄️ Databases
 
@@ -91,25 +116,28 @@ I enjoy building **practical software that solves real problems** — from AI ag
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🤖 AI, Tools & Platforms
+### 🤖 AI / Data / Automation
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![IBM watsonx](https://img.shields.io/badge/IBM%20watsonx-1261FE?style=for-the-badge&logo=ibm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
-### ☁️ DevOps & Deployment
+### ☁️ DevOps / Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Vultr](https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -121,18 +149,18 @@ I enjoy building **practical software that solves real problems** — from AI ag
 
 ### 🔧 Repair Shop SaaS
 
-<a href="https://github.com/Eman2123/repair-saas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Eman2123&repo=repair-saas&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/Eman2123/repair-saas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Eman2123&repo=repair-saas&theme=radical&hide_border=true" /></a>
 
-Multi-role repair shop management platform with owner, manager, technician, driver and customer portals.
+Multi-role repair management platform with owner, manager, technician, driver and customer portals.
 
-`Next.js` `TypeScript` `Tailwind CSS`
+`Next.js` `TypeScript` `Tailwind`
 
 </td>
 <td width="50%" valign="top">
 
 ### 📰 VerifiNews
 
-AI-powered fake news detection platform with a complete dashboard and ML-powered analysis.
+🛡️ **AI-powered fake news detection** platform with intelligent analysis and a complete dashboard.
 
 `Python` `FastAPI` `Next.js` `Hugging Face`
 
@@ -143,44 +171,44 @@ AI-powered fake news detection platform with a complete dashboard and ML-powered
 
 ### 🧠 Bob RepoIQ
 
-AI-powered codebase analyzer that explains repositories in plain language using watsonx.ai.
+AI-powered codebase analyzer that turns complex repositories into understandable explanations using watsonx.ai.
 
 `JavaScript` `IBM watsonx` `AI`
 
-<a href="https://github.com/Eman2123/Bob-RepoIQ">View Project →</a>
+<a href="https://github.com/Eman2123/Bob-RepoIQ">🔗 View Project</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI Agent Chatbot System
+### 🤖 AI Agent Chatbot
 
 Intelligent chatbot system focused on natural conversations, agent workflows and task automation.
 
 `Python` `AI Agents` `Automation`
 
-<a href="https://github.com/Eman2123/Ai-Agent-Chatbot-System">View Project →</a>
+<a href="https://github.com/Eman2123/Ai-Agent-Chatbot-System">🔗 View Project</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🍽️ Restaurant Management System
+### 🍽️ Restaurant Management
 
-Laravel-based management system for menus, orders, sales and administrative workflows.
+Laravel-based system for menus, orders, sales and administrative workflows.
 
 `Laravel` `PHP` `MySQL`
 
-<a href="https://github.com/Eman2123/Restaurant-Management-System">View Project →</a>
+<a href="https://github.com/Eman2123/Restaurant-Management-System">🔗 View Project</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧩 More Projects
+### ⚡ Hackathon Builds
 
-I continuously build and experiment with AI tools, automation systems, web applications and hackathon projects.
+Rapid prototypes built around **AI, automation, developer tools and intelligent applications**.
 
-<a href="https://github.com/Eman2123?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-0EA5E9?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Eman2123?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -188,34 +216,35 @@ I continuously build and experiment with AI tools, automation systems, web appli
 
 ---
 
-## 🏆 Hackathons & Building
+## 🏆 Hackathons & Community
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI%20%26%20Developer-Hackathons-0EA5E9?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20Agents-Projects-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Automation-Workflows-14B8A6?style=for-the-badge&logo=zapier&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Hackathons-BUILD-7C3AED?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Agents-EXPLORE-0EA5E9?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Automation-SHIP-14B8A6?style=for-the-badge&logo=zapier&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20Source-CONTRIBUTE-F59E0B?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
-I enjoy hackathons because they push me to **prototype quickly, integrate new technologies and ship complete working products** rather than stopping at an idea.
+I enjoy hackathons because they force me to **learn fast, experiment with new technologies and turn ideas into working products**.
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Eman2123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eman2123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Eman2123&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eman2123&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eman2123&theme=tokyonight&hide_border=true" width="65%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eman2123&theme=radical&hide_border=true" width="65%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eman2123&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eman2123&theme=redical&hide_border=true&area=true" width="100%" />
 
 </div>
 
@@ -225,7 +254,7 @@ I enjoy hackathons because they push me to **prototype quickly, integrate new te
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Eman2123/Eman2123/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
+<img src="https://raw.githubusercontent.com/Eman2123/Eman2123/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%" />
 
 </div>
 
@@ -235,7 +264,7 @@ I enjoy hackathons because they push me to **prototype quickly, integrate new te
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Eman2123&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Eman2123&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 
 </div>
 
@@ -243,14 +272,28 @@ I enjoy hackathons because they push me to **prototype quickly, integrate new te
 
 ## 🎯 Current Focus
 
-```text
-AI Agents       ████████████████████  Building
-Python          ████████████████████  Building
-Full Stack      ███████████████████░  Building
-Automation      ██████████████████░░  Exploring
-System Design   ███████████████░░░░░  Learning
-DevOps / Cloud  ██████████████░░░░░░  Growing
-```
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20Agents-BUILDING-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-BUILDING-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Full--Stack-BUILDING-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Automation-EXPLORING-14B8A6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System%20Design-LEARNING-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-GROWING-E11D48?style=for-the-badge" />
+
+</div>
+
+---
+
+## 💬 Developer Mindset
+
+<div align="center">
+
+> **Think → Build → Break → Debug → Learn → Ship → Repeat.** 🚀
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=14B8A6&center=true&vCenter=true&width=700&lines=Learning+something+new+every+day;Building+AI+that+actually+does+things;Turning+ideas+into+products;Code+%2B+Creativity+%2B+Consistency+%F0%9F%92%9C" />
+
+</div>
 
 ---
 
@@ -265,12 +308,12 @@ DevOps / Cloud  ██████████████░░░░░░  Gr
 
 <br/><br/>
 
-**💡 Build. Learn. Automate. Ship. Repeat. 🚀**
+**💜 Build. Learn. Automate. Ship. Repeat. 🚀**
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,35:0ea5e9,70:06b6d4,100:22c55e&height=140&section=footer" width="100%" />
 </div>
