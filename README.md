@@ -29,7 +29,7 @@
 
 ### 👩🏻‍💻 Hey, I'm Eman!
 
-I'm a **BSCS student and AI + Full-Stack developer** who enjoys turning ideas into practical, working software.
+I'm a **AI + Full-Stack developer** who enjoys turning ideas into practical, working software.
 
 - 🤖 **AI/ML** — intelligent applications, LLM workflows & AI agents
 - 🐍 **Python** — backend development, automation & data/ML work
