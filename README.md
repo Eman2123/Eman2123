@@ -20,12 +20,7 @@
 ```yaml
 name: Eman Mirza
 role: AI & Full-Stack Developer
-focus:
-  - Artificial Intelligence & Machine Learning
-  - AI Agents & Automation
-  - Python Backend Development
-  - Full-Stack Web Applications
-  - APIs, Databases & Cloud Deployment
+focus: AI/ML · Python · Automation · Backend Architecture · Full-Stack Development
 currently_building: AI-powered applications + full-stack products
 open_to: Remote internships · Collaborations · Hackathons · Open Source
 ```
@@ -37,7 +32,7 @@ I enjoy building **practical software that solves real problems** — from AI ag
 - 🌐 Building modern interfaces with **React, Next.js, TypeScript & Tailwind CSS**
 - ⚙️ Working with **Laravel, Node.js, REST APIs and databases**
 - ☁️ Exploring **Docker, Linux, Vercel, Vultr, CI/CD and cloud deployment**
-- 🏆 Regularly participating in **AI, developer and hackathon projects**
+- 🏆 Active in **AI, developer and hackathon projects**
 - 🤝 Interested in **international remote opportunities and technical collaborations**
 
 ---
