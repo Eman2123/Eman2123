@@ -1,57 +1,67 @@
 <div align="center">
 
-# `> Hello, I'm Eman 👋`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:312e81,100:06b6d4&height=210&section=header&text=Hi%2C%20I'm%20Eman%20%F0%9F%91%8B&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Full-Stack%20%7C%20Automation%20%7C%20Builder&descAlignY=60&descSize=18" width="100%"/>
 
-### AI Engineer in the making • Full-Stack Developer • Builder
+<img src="./assets/girl-programmer.svg" width="420" alt="Cute girl programmer illustration"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f172a,100:164e63&height=2&section=header" width="100%" />
+### 🤖 AI Engineer in the making • 💻 Full-Stack Developer • 🚀 Builder
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Eman2123&label=VISITORS&color=06b6d4&style=for-the-badge)](https://github.com/Eman2123)
-[![GitHub](https://img.shields.io/badge/GitHub-Eman2123-020617?style=for-the-badge&logo=github)](https://github.com/Eman2123)
+<a href="https://github.com/Eman2123"><img src="https://komarev.com/ghpvc/?username=Eman2123&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge" /></a>
+<a href="https://github.com/Eman2123?tab=followers"><img src="https://img.shields.io/github/followers/Eman2123?label=FOLLOWERS&style=for-the-badge&color=7c3aed" /></a>
+<a href="https://github.com/Eman2123?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Explore-ec4899?style=for-the-badge" /></a>
 
 </div>
 
-<br>
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=06B6D4&center=true&vCenter=true&width=700&lines=Building+AI+agents+that+actually+do+things+%F0%9F%A4%96;Turning+ideas+into+real+products+%F0%9F%9A%80;Python+%7C+React+%7C+Next.js+%7C+TypeScript;Always+learning.+Always+building.+%E2%9C%A8" alt="Typing animation" />
+
+</div>
+
+---
+
+## 🌸 About Me
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
-## `whoami`
+I'm **Eman Mirza**, a final-year **BSCS student from Pakistan** who loves building at the intersection of **AI and software engineering**.
 
-I'm **Eman Mirza**, a final-year **BSCS student** from Pakistan who enjoys building things at the intersection of **AI and software engineering**.
+I enjoy turning an idea into a working prototype and then pushing it toward a real, usable product.
 
-I work mostly with **Python, AI agents, automation, Next.js, React, TypeScript and backend APIs**. I like taking an idea from a rough concept → working prototype → deployable product.
-
-```text
-focus = {
-  "AI":          ["Agents", "LLM Apps", "Automation"],
-  "Backend":     ["Python", "APIs", "Laravel", "Node.js"],
-  "Frontend":    ["Next.js", "React", "TypeScript"],
-  "Currently":   "Building + learning every day"
+```python
+eman = {
+    "focus": ["AI Agents", "LLM Apps", "Automation"],
+    "frontend": ["React", "Next.js", "TypeScript"],
+    "backend": ["Python", "Node.js", "Laravel", "REST APIs"],
+    "databases": ["MySQL", "MongoDB"],
+    "goal": "Build useful technology ✨"
 }
 ```
 
 </td>
-<td width="40%" valign="top">
+<td width="42%" valign="top">
 
-## `currently`
-
-🟢 **Building**
-
-AI-powered applications & automation workflows
+### 💫 Right now
 
 🧠 **Learning**
 
-AI agents, scalable architectures & modern AI tooling
+AI agents, modern AI tooling & scalable architectures
 
-🏆 **Doing**
+🔨 **Building**
 
-Hackathons, open-source projects & developer communities
+AI-powered apps, automation workflows & full-stack products
 
-💼 **Looking for**
+🏆 **Exploring**
 
-Remote internships, collaborations & interesting projects
+Hackathons, open source & developer communities
+
+💼 **Open to**
+
+Remote internships, collaborations & exciting projects
 
 </td>
 </tr>
@@ -59,61 +69,31 @@ Remote internships, collaborations & interesting projects
 
 ---
 
-<div align="center">
-
-## ⚡ `my toolkit`
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🤖 AI
-
-Python<br>AI Agents<br>LLM Apps<br>Automation<br>watsonx.ai
-
-</td>
-<td align="center" width="25%">
-
-### 🧩 Frontend
-
-Next.js<br>React<br>TypeScript<br>JavaScript<br>Tailwind CSS
-
-</td>
-<td align="center" width="25%">
-
-### ⚙️ Backend
-
-Python<br>Node.js<br>Laravel<br>PHP<br>REST APIs
-
-</td>
-<td align="center" width="25%">
-
-### 🛠️ Tools
-
-Git<br>GitHub<br>Figma<br>Vercel<br>MySQL / MongoDB
-
-</td>
-</tr>
-</table>
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Laravel](https://img.shields.io/badge/Laravel-111827?style=flat-square&logo=laravel&logoColor=FF2D20)
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)
+### 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+
+### 💻 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind" />
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,laravel,php,mysql,mongodb" />
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vercel,vscode" />
 
 </div>
 
 ---
 
-## 🚀 `things I've built`
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -121,22 +101,22 @@ Git<br>GitHub<br>Figma<br>Vercel<br>MySQL / MongoDB
 
 ### 🔧 Repair Shop SaaS
 
-A multi-role management platform for repair businesses with workflows for **owners, managers, technicians, drivers and customers**.
+Multi-role management platform for repair businesses with workflows for owners, managers, technicians, drivers and customers.
 
-`Next.js` `TypeScript` `Tailwind`
+**Stack:** `Next.js` `TypeScript` `Tailwind`
 
-<a href="https://github.com/Eman2123/repair-saas">→ View repository</a>
+<a href="https://github.com/Eman2123/repair-saas">🔗 View Project →</a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧠 Bob RepoIQ
 
-An AI-powered codebase analyzer that explains software projects in **plain English** for non-technical users using **watsonx.ai**.
+AI-powered codebase analyzer that explains software projects in plain English using **watsonx.ai**.
 
-`JavaScript` `watsonx.ai` `AI`
+**Stack:** `JavaScript` `watsonx.ai` `AI`
 
-<a href="https://github.com/Eman2123/Bob-RepoIQ">→ View repository</a>
+<a href="https://github.com/Eman2123/Bob-RepoIQ">🔗 View Project →</a>
 
 </td>
 </tr>
@@ -145,22 +125,22 @@ An AI-powered codebase analyzer that explains software projects in **plain Engli
 
 ### 🤖 AI Agent Chatbot
 
-Conversational AI system focused on **natural language interaction and task execution**.
+Conversational AI system focused on natural-language interaction and task execution.
 
-`Python` `AI` `Automation`
+**Stack:** `Python` `AI` `Automation`
 
-<a href="https://github.com/Eman2123/Ai-Agent-Chatbot-System">→ View repository</a>
+<a href="https://github.com/Eman2123/Ai-Agent-Chatbot-System">🔗 View Project →</a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎙️ AI Voice Assistant
 
-Voice-controlled assistant that listens to spoken commands, processes them and responds through an interactive interface.
+Voice-controlled assistant that listens to commands, processes them and responds through an interactive interface.
 
-`JavaScript` `HTML` `Voice AI`
+**Stack:** `JavaScript` `HTML` `Voice AI`
 
-<a href="https://github.com/Eman2123/AI-Voice-Assistance">→ View repository</a>
+<a href="https://github.com/Eman2123/AI-Voice-Assistance">🔗 View Project →</a>
 
 </td>
 </tr>
@@ -168,46 +148,50 @@ Voice-controlled assistant that listens to spoken commands, processes them and r
 
 ---
 
+## 🏆 Build • Break • Learn • Repeat
+
 <div align="center">
 
-## 🏆 `build • break • learn • repeat`
+I enjoy **hackathons, rapid prototyping and experimenting with new AI platforms**.
 
-I enjoy **hackathons, rapid prototyping and experimenting with new AI platforms**. My goal is to build software that solves real problems rather than just demos that look good.
+My goal is simple: **build software that solves real problems — not just demos that look good.**
 
-`AI Agents` &nbsp; `Automation` &nbsp; `Full Stack` &nbsp; `Developer Tools`
+`AI Agents` · `Automation` · `Full Stack` · `Developer Tools` · `Open Source`
 
 </div>
 
 ---
 
-## 📈 `github activity`
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Eman2123&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eman2123&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Eman2123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eman2123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
 
-<br><br>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Eman2123&theme=github-dark-blue&hide_border=true" width="70%" />
+<img src="https://streak-stats.demolab.com?user=Eman2123&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
 ---
 
-<div align="center">
+## 🌐 Let's Connect
 
-## `let's connect`
+<div align="center">
 
 <a href="mailto:mirzaeman942@gmail.com"><img src="https://img.shields.io/badge/Email-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/eman-mirza-926035249/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-<a href="https://discord.com/users/eman_12137"><img src="https://img.shields.io/badge/Discord-0f172a?style=for-the-badge&logo=discord&logoColor=5865F2" /></a>
+<a href="https://www.linkedin.com/in/eman-mirza-926035249/"><img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://discord.com/users/eman_12137"><img src="https://img.shields.io/badge/Discord-ec4899?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://github.com/Eman2123"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<br><br>
+<br/><br/>
 
-**`Thanks for stopping by. Now go build something cool. 🚀`**
+### ✨ Thanks for stopping by!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:164e63&height=100&section=footer" width="100%" />
+**Let's build something amazing. 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:312e81,100:06b6d4&height=120&section=footer" width="100%"/>
 
 </div>
