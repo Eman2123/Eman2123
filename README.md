@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:312e81,100:06b6d4&height=210&section=header&text=Hi%2C%20I'm%20Eman%20%F0%9F%91%8B&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Full-Stack%20%7C%20Automation%20%7C%20Builder&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,35:312e81,70:7c3aed,100:06b6d4&height=210&section=header&text=Hi%2C%20I'm%20Eman%20%F0%9F%91%8B&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Full-Stack%20%7C%20Automation%20%7C%20Builder&descAlignY=60&descSize=18" width="100%"/>
 
-<img src="./assets/girl-programmer.svg" width="420" alt="Cute girl programmer illustration"/>
+<img src="./assets/hacker-girl.svg" width="650" alt="Hacker girl programmer coding at a laptop"/>
 
-### 🤖 AI Engineer in the making • 💻 Full-Stack Developer • 🚀 Builder
+### 🖤 AI Engineer in the making • 💻 Full-Stack Developer • ⚡ Builder
 
 <a href="https://github.com/Eman2123"><img src="https://komarev.com/ghpvc/?username=Eman2123&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge" /></a>
 <a href="https://github.com/Eman2123?tab=followers"><img src="https://img.shields.io/github/followers/Eman2123?label=FOLLOWERS&style=for-the-badge&color=7c3aed" /></a>
@@ -22,7 +22,7 @@
 
 ---
 
-## 🌸 About Me
+## 🕶️ About Me
 
 <table>
 <tr>
@@ -38,14 +38,14 @@ eman = {
     "frontend": ["React", "Next.js", "TypeScript"],
     "backend": ["Python", "Node.js", "Laravel", "REST APIs"],
     "databases": ["MySQL", "MongoDB"],
-    "goal": "Build useful technology ✨"
+    "mode": "build > break > debug > repeat"
 }
 ```
 
 </td>
 <td width="42%" valign="top">
 
-### 💫 Right now
+### ⚡ Current Mission
 
 🧠 **Learning**
 
@@ -162,6 +162,18 @@ My goal is simple: **build software that solves real problems — not just demos
 
 ---
 
+## 🐍 Contribution Game
+
+<div align="center">
+
+### Your contributions are the path. The snake is hungry. 🐍
+
+<img src="https://raw.githubusercontent.com/Eman2123/Eman2123/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="95%" />
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -190,8 +202,8 @@ My goal is simple: **build software that solves real problems — not just demos
 
 ### ✨ Thanks for stopping by!
 
-**Let's build something amazing. 🚀**
+**Keep coding. Keep building. Keep shipping. 🚀**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:312e81,100:06b6d4&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,35:312e81,70:7c3aed,100:06b6d4&height=120&section=footer" width="100%"/>
 
 </div>
