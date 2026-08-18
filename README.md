@@ -1,4 +1,6 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,30:2563eb,60:06b6d4,100:14b8a6&height=230&section=header&text=Hi%2C%20I'm%20Eman%20Mirza%20%F0%9F%91%8B&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Python%20%7C%20Full-Stack%20%7C%20Automation&descAlignY=61&descColor=ffffff&animation=fadeIn" width="100%" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=900&color=7C3AED&center=true&vCenter=true&width=820&lines=AI-powered+products+%F0%9F%A4%96;AI+Agents+%26+Automation+%E2%9A%A1;Python+%2B+FastAPI+%2B+Next.js+%F0%9F%90%8D;Full-Stack+Development+%F0%9F%8C%90;Building+%7C+Learning+%7C+Shipping+%F0%9F%9A%80" />
 
 <br/>
