@@ -148,10 +148,11 @@ Exploring AI, automation, developer tools and intelligent applications.
 ## 📊 GitHub Analytics
 
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=Eman2123&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eman2123&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" />
-<br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eman2123&theme=radical&hide_border=true" width="65%" />
+
 </div>
 
 ---
