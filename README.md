@@ -153,6 +153,10 @@ Exploring AI, automation, developer tools and intelligent applications.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eman2123&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" />
 
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eman2123&theme=radical&hide_border=true" width="65%" />
+
 </div>
 
 ---
