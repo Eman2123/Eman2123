@@ -235,7 +235,7 @@ Exploring AI, automation, developer tools and intelligent applications.
 <a href="https://www.linkedin.com/in/eman-mirza-926035249/"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Eman2123"><img src="https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <br/><br/>
-*💜 Build. Learn. Automate. Ship. Repeat. 🚀*
+💜 Build. Learn. Automate. Ship. Repeat. 🚀
 </div>
 
 <br/>
