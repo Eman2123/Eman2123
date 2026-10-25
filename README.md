@@ -132,15 +132,6 @@ GitLab-native workflow that turns requirements into executable checks, tests fix
 </td></tr>
 <tr><td width="50%" valign="top">
 
-### 🧠 Bob RepoIQ
-AI-powered codebase analyzer designed to help developers understand repositories with IBM watsonx.ai.
-
-`JavaScript` `IBM watsonx` `AI`
-
-<a href="https://github.com/Eman2123/Bob-RepoIQ"><img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</td><td width="50%" valign="top">
-
 ### ✨ More Projects
 Explore more experiments and builds across AI applications, backend systems, automation, and developer tools.
 
