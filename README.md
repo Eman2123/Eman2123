@@ -92,53 +92,59 @@ I'm an **AI + Full-Stack developer** who enjoys turning ideas into practical, wo
 <table>
 <tr><td width="50%" valign="top">
 
-### 🔧 Repair Shop SaaS
-Multi-role repair management platform with owner, manager, technician, driver and customer portals.
+### 🎓 Campus AI
+AI-powered campus assistant for university information, document Q&A, scheduling, and student support.
 
-`Next.js` `TypeScript` `Tailwind`
+`Python` `FastAPI` `AI Agents` `Next.js`
 
-<a href="https://github.com/Eman2123/repair-saas"><img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Eman2123/Campus-AI"><img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://campus-ai-opal.vercel.app/"><img src="https://img.shields.io/badge/LIVE%20DEMO-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </td><td width="50%" valign="top">
 
-### 📰 VerifiNews
-🛡️ AI-powered fake news detection platform with intelligent analysis and a complete dashboard.
+### 📈 VendorPulse
+Supplier follow-up and risk monitoring platform that collects vendor updates and flags potential delivery delays.
 
-`Python` `FastAPI` `Next.js` `Hugging Face`
+`Next.js` `FastAPI` `PostgreSQL` `Automation`
+
+<a href="https://github.com/Eman2123/VendorPlus"><img src="https://img.shields.io/badge/VIEW%20PROJECT-14B8A6?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://vendorplus.fastapicloud.dev"><img src="https://img.shields.io/badge/LIVE%20DEMO-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
+### 🏥 MediGuard AI
+Route intelligence for critical medical supplies, helping compare delivery options and surface potential cost savings.
+
+`Python` `FastAPI` `React` `Route Optimization`
+
+<a href="https://medi-guard-ai-liart.vercel.app/"><img src="https://img.shields.io/badge/LIVE%20DEMO-E11D48?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+</td><td width="50%" valign="top">
+
+### 🔁 Vibe Check
+GitLab-native workflow that turns requirements into executable checks, tests fixes, and verifies release and rollback behavior.
+
+`GitLab Duo` `Python` `FastAPI` `CI/CD`
+
+<a href="https://gitlab.com/gitlab-ai-hackathon/transcend-october-2026/37715479/showcase"><img src="https://img.shields.io/badge/PROJECT%20SHOWCASE-F59E0B?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
 
 </td></tr>
 <tr><td width="50%" valign="top">
 
 ### 🧠 Bob RepoIQ
-AI-powered codebase analyzer for understanding complex repositories with watsonx.ai.
+AI-powered codebase analyzer designed to help developers understand repositories with IBM watsonx.ai.
 
 `JavaScript` `IBM watsonx` `AI`
 
-<a href="https://github.com/Eman2123/Bob-RepoIQ"><img src="https://img.shields.io/badge/VIEW%20PROJECT-0EA5E9?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Eman2123/Bob-RepoIQ"><img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td><td width="50%" valign="top">
 
-### 🤖 AI Agent Chatbot
-Intelligent chatbot focused on conversations, agent workflows and task automation.
+### ✨ More Projects
+Explore more experiments and builds across AI applications, backend systems, automation, and developer tools.
 
-`Python` `AI Agents` `Automation`
-
-</td></tr>
-<tr><td width="50%" valign="top">
-
-### 🍽️ Restaurant Management
-Laravel-based system for menus, orders, sales and administrative workflows.
-
-`Laravel` `PHP` `MySQL`
-
-<a href="https://github.com/Eman2123/Restaurant-Management-System"><img src="https://img.shields.io/badge/VIEW%20PROJECT-14B8A6?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</td><td width="50%" valign="top">
-
-### ✨ More Builds
-Exploring AI, automation, developer tools and intelligent applications.
-
-<a href="https://github.com/Eman2123?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-F59E0B?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Eman2123?tab=repositories"><img src="https://img.shields.io/badge/ALL%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td></tr>
 </table>
