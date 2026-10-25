@@ -113,12 +113,13 @@ Supplier follow-up and risk monitoring platform that collects vendor updates and
 </td></tr>
 <tr><td width="50%" valign="top">
 
-### 🏥 MediGuard AI
-Route intelligence for critical medical supplies, helping compare delivery options and surface potential cost savings.
+### 📰 Verifi News
+Fake-news detection app that analyzes submitted news text and predicts whether it is likely real or fake.
 
-`Python` `FastAPI` `React` `Route Optimization`
+`Python` `FastAPI` `Machine Learning` `Next.js`
 
-<a href="https://medi-guard-ai-liart.vercel.app/"><img src="https://img.shields.io/badge/LIVE%20DEMO-E11D48?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/Eman2123/VerifiNews-"><img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://verifi-news-4zvt.vercel.app"><img src="https://img.shields.io/badge/LIVE%20DEMO-E11D48?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </td><td width="50%" valign="top">
 
