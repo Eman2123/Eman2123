@@ -79,7 +79,7 @@ A selection of projects across backend engineering, AI, machine learning, and re
 
 <h3>🧠 TinyAya</h3>
 <b>Machine Learning · AI Safety</b><br/>
-My first ML-focused project, exploring model uncertainty and when a system should abstain instead of giving an unreliable answer. Built during the Lexsi AI Safety and Alignment Hackathon.
+My first ML-focused project, exploring model uncertainty and when a system should abstain instead of giving an unreliable answer.
 
 <br/><br/>
 <a href="https://github.com/Eman2123/tinyaya-idk">View project →</a>
@@ -158,19 +158,6 @@ An experiment in voice interaction and memory-oriented AI workflows, using Assem
 
 ---
 
-## 🏁 Hackathons & experiments
-
-Hackathons have been a way to learn unfamiliar technologies, collaborate under time pressure, and build prototypes around real constraints.
-
-| Event / Track | Work and learning |
-|---|---|
-| **Lexsi AI Safety & Alignment** | TinyAya, first hands-on ML-focused project and Hugging Face workflow |
-| **Meta Global AI Developer Hackathon** | ClerkifyDx, AI-assisted clinical intake prototype |
-| **Vultr Agent Rush** | PATCH-LOOP, sandboxed execution and AI tooling |
-| **Solana / MLH** | Exploring revocable authorization for autonomous agents with Rust and Solana |
-
-*I distinguish participation and experimentation from awards or placements.*
-
 ## 📚 What I'm learning now
 
 <div align="center">
@@ -226,5 +213,9 @@ I want to grow into an engineer who can take an unfamiliar problem, understand i
 <br/><br/>
 
 *Curiosity gets me started. Evidence helps me improve.*
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Eman2123/Eman2123/main/assets/profile-footer.svg" width="100%" alt="Thanks for visiting, Eman Mirza" />
 
 </div>
