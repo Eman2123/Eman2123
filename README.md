@@ -1,327 +1,270 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,25:7C3AED,55:2563EB,80:0891B2,100:0F766E&height=240&section=header&text=Eman%20Mirza&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Building%20at%20the%20intersection%20of%20Python%2C%20AI%20%26%20Engineering&descSize=16&descAlignY=60&descColor=EDE9FE&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10172A,45:312E81,100:0E7490&height=210&section=header&text=EMAN%20MIRZA&fontSize=54&fontColor=F8FAFC&fontAlignY=42&desc=Python%20Backend%20%7C%20AI%20%26%20Machine%20Learning&descSize=17&descColor=C4B5FD&descAlignY=68" width="100%" alt="Eman Mirza profile banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Python+Backend+Developer;AI+%26+Machine+Learning+Builder;Exploring+AI+Safety+%26+Model+Evaluation;Building+Agents%2C+APIs+%26+Developer+Tools;Research.+Experiment.+Build.+Improve." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=850&color=67E8F9&center=true&vCenter=true&width=760&lines=I+build+useful+things+with+Python;Exploring+machine+learning+and+AI+safety;Designing+backend+systems+and+AI+agents;Research.+Build.+Measure.+Improve." alt="Profile tagline" />
 
 <br/>
 
-<a href="https://github.com/Eman2123"><img src="https://img.shields.io/badge/GitHub-Eman2123-181717?style=for-the-badge&logo=github" /></a>
-<a href="https://www.linkedin.com/in/eman-mirza-926035249/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-<a href="https://eman-portfolio-iota.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:mirzaeman942@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://eman-portfolio-iota.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/eman-mirza-926035249/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Eman2123?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Explore-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Eman2123&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Eman2123?label=FOLLOWERS&style=for-the-badge&color=2563EB" />
-<img src="https://img.shields.io/github/stars/Eman2123?label=TOTAL%20STARS&style=for-the-badge&color=0891B2" />
+<img src="https://komarev.com/ghpvc/?username=Eman2123&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Eman2123?style=flat-square&color=2563EB&label=Followers" alt="GitHub followers" />
 
 </div>
 
 ---
 
-## <img src="https://img.shields.io/badge/01-ABOUT%20ME-7C3AED?style=flat-square" /> A developer who likes figuring things out
-
-Hey, I'm **Eman** — a software developer focused on **Python backend engineering and AI-powered systems**.
-
-I started by building web applications and backend APIs. Over time, my curiosity pulled me deeper into AI agents, machine learning, model behavior, and research-oriented engineering. I enjoy moving beyond connecting APIs: understanding the problem, experimenting with an approach, measuring what works, and improving the system.
-
-I work across the stack, but Python and backend development are my strongest foundations. Recently, I've also started getting hands-on with ML workflows and Hugging Face, including my first experiments around model uncertainty and AI safety.
-
-- 🐍 **Backend:** Designing APIs, application services, integrations, and data workflows.
-- 🧠 **AI / ML:** Building AI applications and experimenting with models, evaluation, and uncertainty.
-- 🤖 **Agentic systems:** Exploring tool use, orchestration, and practical autonomous workflows.
-- 🌐 **Full stack:** Turning backend ideas into usable products with React and Next.js.
-- 🔬 **Engineering mindset:** Research first, prototype, test, debug, and iterate.
-
-<br/>
-
-<div align="center">
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/CORE-Python%20%26%20Backend-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
-<sub>My engineering foundation</sub>
+<td width="58%" valign="top">
+
+## About me
+
+I'm a software developer focused on **Python backend engineering and AI-powered applications**.
+
+I began with web development and backend APIs, then moved into AI integrations, agentic workflows, and recently hands-on machine learning. I enjoy understanding how a system behaves, testing assumptions, and improving it with evidence rather than relying on a polished demo alone.
+
+**My strongest foundation is Python and backend development.** I'm expanding that foundation into ML, AI safety, and model evaluation.
+
 </td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20ML-7C3AED?style=for-the-badge&logo=huggingface&logoColor=white" /><br/>
-<sub>Where I'm growing next</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/BUILDING-Real%20World%20Projects-0F766E?style=for-the-badge&logo=github&logoColor=white" /><br/>
-<sub>Learning through execution</sub>
+<td width="42%" valign="top">
+
+<div align="center">
+<img src="https://github.com/Eman2123.png" width="155" alt="GitHub avatar" />
+
+### Current direction
+
+<img src="https://img.shields.io/badge/Python-Backend-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20%26%20ML-Exploring-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/AI%20Safety-Research-0F766E?style=flat-square" />
+<img src="https://img.shields.io/badge/Agentic%20Systems-Building-2563EB?style=flat-square" />
+
+</div>
 </td>
 </tr>
 </table>
-</div>
 
-## <img src="https://img.shields.io/badge/02-TECH%20STACK-2563EB?style=flat-square" /> Tools I build with
+## What I work with
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,js,ts,php,cpp,mysql&theme=dark" />
+**LANGUAGES**
 
-### Backend, APIs & Data
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,postgres,mongodb,redis,supabase&theme=dark" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" />
+**BACKEND & DATA**
 
-### AI, ML & Developer Tools
-<img src="https://skillicons.dev/icons?i=pytorch,github,docker,linux,git,postman,figma&theme=dark" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-222222?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+
+**AI / ML**
+
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-202020?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM%20Integrations-7C3AED?style=for-the-badge" />
+
+**FRONTEND & TOOLS**
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git- F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
 
-**AI ecosystem:** Hugging Face · LangChain · LangGraph · LLM APIs · NumPy · Pandas · AI integrations
-
-**Cloud & delivery:** Vercel · Vultr · Docker · Linux · GitHub Actions · REST APIs
-
 ---
 
-## <img src="https://img.shields.io/badge/03-FEATURED%20BUILDS-0891B2?style=flat-square" /> Projects & experiments
+## Selected projects
 
-A selection of projects across AI, backend engineering, machine learning, research, and developer tooling.
+I like projects that make a technical question testable. These are some of the areas I've been building in.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2">
 
-<h3>🧠 TinyAya</h3>
-<b>Model Uncertainty & Abstention</b>
+### 🌌 Walkback · Uncertainty-aware planetary return planning
 
-An experimental ML project exploring whether a small model can recognize uncertainty and abstain instead of confidently producing an unreliable answer. Focused on uncertainty signals, model behavior, and evaluation.
+<a href="https://github.com/Eman2123/Walkback">
+<img src="https://raw.githubusercontent.com/Eman2123/Walkback/main/docs/assets/banner.png" width="100%" alt="Walkback project banner showing a Mars habitat and terrain" />
+</a>
 
-<br/>
-<img src="https://img.shields.io/badge/Machine%20Learning-Experiments-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Hugging%20Face-Model%20Work-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/AI%20Safety-Evaluation-0F766E?style=flat-square" />
+A research-oriented prototype that estimates where a crew could walk back to a habitat within an EVA time budget, then compares the prediction against higher-resolution Jezero terrain data. Includes preregistered experiments, calibration analysis, route-feasibility checks, and explicit reporting of shortfalls.
 
-<br/><br/>
-<a href="https://github.com/Eman2123/tinyaya-idk"><b>↗ Explore repository</b></a>
+**Python · FastAPI · React · Vite · NumPy · HiRISE terrain data**
 
-</td>
-<td width="50%" valign="top">
-
-<h3>🌌 Walkback</h3>
-<b>Route Planning Under Uncertainty</b>
-
-A research-oriented system investigating safe return-route estimation for planetary surface operations. Explores how terrain resolution and uncertainty affect route feasibility under a time budget.
+<a href="https://walkback-rlvz.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-Open-0F766E?style=flat-square" /></a>
+<a href="https://github.com/Eman2123/Walkback"><img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=flat-square&logo=github" /></a>
 
 <br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Geospatial-Analysis-0F766E?style=flat-square" />
-<img src="https://img.shields.io/badge/Research-Driven-2563EB?style=flat-square" />
 
-<br/><br/>
-<a href="https://github.com/Eman2123/Walkback"><b>↗ Explore repository</b></a>
+<img src="https://raw.githubusercontent.com/Eman2123/Walkback/main/docs/assets/screenshot.png" width="100%" alt="Walkback application screenshot showing the Jezero terrain map and route regions" />
+
+<sub>Walkback interface using the Jezero terrain tile. Model outputs are experimental planning estimates, not a safety certification or flight-software recommendation.</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🧪 PATCH-LOOP</h3>
-<b>AI Sandbox & Developer Tooling</b>
+### 🧠 TinyAya · ML & model uncertainty
 
-An experiment in running code tasks in an isolated sandbox, exploring the foundations of safer execution environments and developer workflows.
+An experimental ML project exploring uncertainty and abstention: when should a small model decline to answer rather than produce an unreliable response? My first hands-on ML-focused build and Hugging Face workflow.
 
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Sandboxing-181717?style=flat-square" />
-<img src="https://img.shields.io/badge/Developer%20Tools-0891B2?style=flat-square" />
+**Machine Learning · Hugging Face · Evaluation**
 
-<br/><br/>
-<a href="https://github.com/Eman2123/PATCH-LOOP"><b>↗ Explore repository</b></a>
+<a href="https://github.com/Eman2123/tinyaya-idk">View repository ↗</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🎓 Campus AI</h3>
-<b>AI-powered University Assistant</b>
+### 🧪 PATCH-LOOP · Isolated AI execution
 
-A campus assistant concept for university information, document question-answering, scheduling, and student support, built around a Python backend.
+Exploring sandboxed execution for code-oriented AI workflows, with an emphasis on isolation, tool boundaries, and safer developer experiences.
 
-<br/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20Applications-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" />
+**Python · Sandboxing · Developer tooling**
 
-<br/><br/>
-<a href="https://github.com/Eman2123/Campus-AI"><b>↗ Explore repository</b></a> · <a href="https://campus-ai-opal.vercel.app/">Live demo</a>
+<a href="https://github.com/Eman2123/PATCH-LOOP">View repository ↗</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>📈 VendorPulse</h3>
-<b>Supplier Follow-up & Risk Monitoring</b>
+### 🎓 Campus AI · University assistant
 
-A workflow platform that collects supplier updates, tracks follow-ups, and flags potential delivery delays to help teams monitor vendor risk.
+A university support application combining a Python backend with AI-assisted document question-answering, scheduling, and student-facing workflows.
 
-<br/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+**FastAPI · Next.js · AI integrations**
 
-<br/><br/>
-<a href="https://github.com/Eman2123/VendorPlus"><b>↗ Explore repository</b></a> · <a href="https://vendorplus.fastapicloud.dev">Live demo</a>
+<a href="https://github.com/Eman2123/Campus-AI">Repository ↗</a> · <a href="https://campus-ai-opal.vercel.app/">Live demo ↗</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🩺 ClerkifyDx</h3>
-<b>AI-assisted Clinical Intake</b>
+### 📈 VendorPulse · Supplier risk workflows
 
-An AI-assisted clinical intake workflow that structures patient information, asks focused follow-up questions, and runs rule-based red-flag checks to support clinician review.
+A supplier follow-up platform that collects updates, tracks deadlines, and flags potential delivery risks through structured workflows.
 
-<br/>
-<img src="https://img.shields.io/badge/AI%20Integration-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Workflow%20Design-0F766E?style=flat-square" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+**FastAPI · Next.js · PostgreSQL**
 
-<br/><br/>
-<a href="https://github.com/Eman2123/ClerkifyDx"><b>↗ Explore repository</b></a> · <a href="https://youtu.be/5bS7hfpExYU">Demo video</a>
+<a href="https://github.com/Eman2123/VendorPlus">Repository ↗</a> · <a href="https://vendorplus.fastapicloud.dev">Live demo ↗</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🎙️ EchoMind</h3>
-<b>Voice-based Memory Agent</b>
+### 🩺 ClerkifyDx · AI-assisted clinical intake
 
-An AI voice-agent experiment exploring conversational interaction and memory-oriented workflows.
+A prototype for structured patient intake, focused follow-up questions, and rule-based red-flag checks before clinician review.
 
-<br/>
-<img src="https://img.shields.io/badge/Voice%20AI-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/AssemblyAI-6B4EFF?style=flat-square" />
-<img src="https://img.shields.io/badge/AI%20Agents-0891B2?style=flat-square" />
+**TypeScript · LLM integration · Workflow design**
 
-<br/><br/>
-<a href="https://github.com/Eman2123/echo-mind"><b>↗ Explore repository</b></a> · <a href="https://echo-mind-trfi.vercel.app/">Live demo</a>
+<a href="https://github.com/Eman2123/ClerkifyDx">Repository ↗</a> · <a href="https://youtu.be/5bS7hfpExYU">Demo video ↗</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🔐 Solana & Blockchain Exploration</h3>
-<b>Revocable Authorization for AI Agents</b>
+### 🎙️ EchoMind · Voice memory agent
 
-Exploring an authorization model where incrementing a root authority epoch can invalidate previously delegated tasks. A learning-focused direction involving Solana, Rust, and Anchor.
+An experiment in voice-based interaction and memory-oriented AI workflows.
 
-<br/>
-<img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust" />
-<img src="https://img.shields.io/badge/Smart%20Contracts-2563EB?style=flat-square" />
+**Voice AI · AssemblyAI · Agent workflows**
 
-<br/><br/>
-<a href="https://github.com/Eman2123"><b>↗ Explore my repositories</b></a>
+<a href="https://github.com/Eman2123/echo-mind">Repository ↗</a> · <a href="https://echo-mind-trfi.vercel.app/">Live demo ↗</a>
 
 </td>
 </tr>
 </table>
 
 <div align="center">
+<a href="https://github.com/Eman2123?tab=repositories"><img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-Explore%20my%20work-312E81?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
 
-<a href="https://github.com/Eman2123?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+---
+
+## Learning through hackathons
+
+Hackathons have pushed me to work with unfamiliar tools, collaborate under deadlines, and turn ideas into working prototypes.
+
+- **Lexsi AI Safety & Alignment Hackathon** — first hands-on ML-focused experience with TinyAya and Hugging Face.
+- **Meta Global AI Developer Hackathon** — built ClerkifyDx, an AI-assisted clinical intake prototype.
+- **Vultr Agent Rush** — developing PATCH-LOOP around sandboxed execution and AI tooling.
+- **Solana / MLH** — exploring revocable authorization for autonomous agents using Solana and Rust.
+
+I don't present participation as an award. I value the technical lessons, experiments, and shipped work.
+
+## Current learning priorities
+
+<div align="center">
+
+| Area | What I'm strengthening |
+|:---:|---|
+| 🧠 Machine Learning | Model behavior, evaluation, uncertainty, Hugging Face |
+| 🐍 Backend Engineering | Python, FastAPI, architecture, data workflows |
+| 🤖 Agentic AI | Tool use, orchestration, reliability, safe execution |
+| 🔐 Blockchain | Solana, Rust, Anchor, authorization patterns |
 
 </div>
 
 ---
 
-## <img src="https://img.shields.io/badge/04-HACKATHONS%20%26%20LEARNING-7C3AED?style=flat-square" /> Building under constraints
-
-Hackathons have been an important part of how I learn: collaborating with other builders, exploring unfamiliar technologies, and turning ideas into working prototypes under real deadlines.
-
-- **Lexsi AI Safety & Alignment Hackathon** — explored machine learning and Hugging Face through TinyAya, my first hands-on ML-focused project.
-- **Meta Global AI Developer Hackathon** — built ClerkifyDx, an AI-assisted clinical intake workflow.
-- **Vultr Agent Rush** — exploring isolated execution and agent-oriented developer tooling through PATCH-LOOP.
-- **Solana / MLH** — exploring revocable authorization concepts for autonomous agents with Solana and Rust.
-
-I value the engineering experience, feedback, and lessons from each build — not just the final result.
-
----
-
-## <img src="https://img.shields.io/badge/05-CURRENT%20FOCUS-0F766E?style=flat-square" /> What I'm working toward
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
-<h3>🧠</h3>
-<b>Machine Learning</b><br/>
-<sub>Model behavior, evaluation, uncertainty</sub>
-</td>
-<td align="center" width="25%">
-<h3>🐍</h3>
-<b>Python Engineering</b><br/>
-<sub>Backend systems, APIs, architecture</sub>
-</td>
-<td align="center" width="25%">
-<h3>🤖</h3>
-<b>Agentic AI</b><br/>
-<sub>Tool use, orchestration, reliability</sub>
-</td>
-<td align="center" width="25%">
-<h3>🔐</h3>
-<b>Blockchain</b><br/>
-<sub>Solana, Rust, authorization</sub>
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## <img src="https://img.shields.io/badge/06-GITHUB%20ACTIVITY-2563EB?style=flat-square" /> The journey in code
+## GitHub activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Eman2123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eman2123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api?username=Eman2123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eman2123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Most used languages" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Eman2123&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Eman2123&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Eman2123&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eman2123&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="GitHub contribution activity graph" />
 
 </div>
 
 ---
 
-## <img src="https://img.shields.io/badge/07-MY%20APPROACH-0891B2?style=flat-square" /> How I like to work
+## How I approach building
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=67E8F9&center=true&vCenter=true&width=800&lines=Understand+the+problem;Research+before+reinventing;Build+small%2C+test+early;Debug+with+curiosity;Measure+what+matters;Keep+improving+and+ship." />
-
-**Curiosity → Research → Build → Test → Debug → Learn → Improve**
+**Understand the problem** → **Research existing work** → **Build a focused prototype** → **Test against evidence** → **Document limitations** → **Iterate**
 
 </div>
 
-I believe good engineering is more than making something work once. It's about understanding why it works, knowing where it can fail, and making the next version better.
+I want to become the kind of engineer who can take an unfamiliar problem, understand its constraints, build a reliable first version, and explain honestly what the system can and cannot do.
 
-## <img src="https://img.shields.io/badge/08-LET'S%20CONNECT-7C3AED?style=flat-square" /> Open to learning and building together
-
-I'm interested in meaningful collaborations, practical engineering challenges, and remote opportunities where I can contribute, learn from experienced developers, and grow as an engineer.
+## Let's connect
 
 <div align="center">
 
-<a href="mailto:mirzaeman942@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/eman-mirza-926035249/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://eman-portfolio-iota.vercel.app/"><img src="https://img.shields.io/badge/Visit%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:mirzaeman942@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/eman-mirza-926035249/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://eman-portfolio-iota.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View%20work-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 <br/><br/>
 
-### Thanks for stopping by 💜
+*Curiosity gets me started. Evidence helps me improve.*
 
-*Build with curiosity. Test with discipline. Improve with every iteration.*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,25:7C3AED,55:2563EB,80:0891B2,100:0F766E&height=130&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,55:312E81,100:10172A&height=115&section=footer" width="100%" alt="Decorative footer banner" />
 
 </div>
