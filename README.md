@@ -1,243 +1,133 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,30:2563eb,60:06b6d4,100:14b8a6&height=230&section=header&text=Hi%2C%20I'm%20Eman%20Mirza%20%F0%9F%91%8B&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Python%20%7C%20Full-Stack%20%7C%20Automation&descAlignY=61&descColor=ffffff&animation=fadeIn" width="100%" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=900&color=7C3AED&center=true&vCenter=true&width=820&lines=AI-powered+products+%F0%9F%A4%96;AI+Agents+%26+Automation+%E2%9A%A1;Python+%2B+FastAPI+%2B+Next.js+%F0%9F%90%8D;Full-Stack+Development+%F0%9F%8C%90;Building+%7C+Learning+%7C+Shipping+%F0%9F%9A%80" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Eman2123&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Eman2123?label=FOLLOWERS&style=for-the-badge&color=0ea5e9" />
-<img src="https://img.shields.io/github/stars/Eman2123?label=STARS&style=for-the-badge&color=f59e0b" />
-<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20FULL--STACK-14B8A6?style=for-the-badge" />
-
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,35:2563eb,70:06b6d4,100:14b8a6&height=220&section=header&text=Hi%2C%20I'm%20Eman%20Mirza&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Python%20%7C%20AI%2FML%20%7C%20Backend%20Engineering&descAlignY=60&descColor=ffffff" width="100%" />
 
 <a href="https://github.com/Eman2123"><img src="https://img.shields.io/badge/GitHub-Eman2123-181717?style=for-the-badge&logo=github" /></a>
-<a href="https://www.linkedin.com/in/eman-mirza-926035249/"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mirzaeman942@gmail.com"><img src="https://img.shields.io/badge/Gmail-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/eman-mirza-926035249/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://eman-portfolio-iota.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel" /></a>
 
 </div>
 
 ---
 
-## 💜 About Me
+## About Me
 
-<table>
-<tr>
-<td width="62%">
+I'm Eman, a developer who enjoys turning complex ideas into practical software. My work started with web development and Python backends, and has grown into AI-powered applications, machine learning experiments, and research-driven engineering projects.
 
-### 👩🏻‍💻 Hey, I'm Eman!
+I work primarily with **Python and backend systems**, while building across the stack when a project needs it. Lately, I've been exploring how models behave, how AI systems can communicate uncertainty, and how to evaluate whether a system is actually reliable.
 
-I'm an **AI + Full-Stack developer** who enjoys turning ideas into practical, working software.
+- **Backend engineering:** Python, FastAPI, Flask, REST APIs, databases
+- **AI engineering:** LLM applications, agent workflows, tool use, model integrations
+- **Machine learning:** Hugging Face, model experimentation, evaluation, and AI safety
+- **Full-stack development:** React, Next.js, TypeScript
+- **Systems exploration:** developer tools, automation, and early blockchain development
 
-- 🤖 **AI/ML** — intelligent applications, LLM workflows & AI agents
-- 🐍 **Python** — backend development, automation & data/ML work
-- 🌐 **Full Stack** — React, Next.js, TypeScript & modern UI
-- ⚙️ **Backend** — FastAPI, Laravel, Node.js & REST APIs
-- ☁️ **Cloud & DevOps** — Docker, Linux, Vercel, Vultr & CI/CD
-- 🚀 **Builder mindset** — learn fast, experiment and ship
-- 🌍 Open to **remote international opportunities & collaborations**
+I enjoy learning by building, testing assumptions, debugging real problems, and improving projects beyond the first working demo.
 
-</td>
-<td width="38%" align="center">
+## Current Areas of Focus
 
-<img src="https://img.shields.io/badge/🤖%20AI%20AGENTS-BUILDING-7C3AED?style=for-the-badge" /><br/><br/>
-<img src="https://img.shields.io/badge/🐍%20PYTHON-BUILDING-3776AB?style=for-the-badge" /><br/><br/>
-<img src="https://img.shields.io/badge/⚡%20AUTOMATION-EXPLORING-14B8A6?style=for-the-badge" /><br/><br/>
-<img src="https://img.shields.io/badge/🌐%20FULL--STACK-BUILDING-0EA5E9?style=for-the-badge" />
+- **Machine Learning & AI Safety** — experimenting with model behavior, uncertainty, and evaluation
+- **Python Backend Engineering** — building APIs, integrations, and reliable application services
+- **Agentic Systems** — exploring tool use, orchestration, and practical AI workflows
+- **Research-driven projects** — validating ideas with data, experiments, and measurable results
+- **Blockchain fundamentals** — exploring Solana, Rust, and smart-contract authorization concepts
 
-</td>
-</tr>
-</table>
+## Selected Projects
 
----
+### TinyAya — Model Uncertainty & Abstention
 
-## ⚡ What I Work With
+An experimental ML project exploring how a small language model can recognize uncertainty and choose when not to answer. The work investigates uncertainty signals, abstention behavior, and evaluation trade-offs rather than treating every generated answer as reliable.
 
-<div align="center">
+**Focus:** Machine Learning · Hugging Face · Model Evaluation · AI Safety
 
-| 🤖 AI & ML | 🐍 Python | 🎨 Frontend | ⚙️ Backend | ☁️ Cloud |
-|:---:|:---:|:---:|:---:|:---:|
-| AI Agents | FastAPI | React | Node.js | Docker |
-| LLM APIs | NumPy | Next.js | Laravel | Linux |
-| Hugging Face | Pandas | TypeScript | REST APIs | Vercel |
-| PyTorch | Flask | Tailwind | Express | Vultr |
-| AI Apps | Automation | Vite | SQL | CI/CD |
+[View TinyAya on GitHub](https://github.com/Eman2123/tinyaya-idk)
 
-</div>
+### Walkback — Route Planning Under Uncertainty
 
----
+A research-oriented project exploring safe return-route estimation for planetary surface operations. It considers how terrain resolution and uncertainty affect whether a crew can return within a limited time budget.
 
-## 🛠️ Tech Stack
+**Focus:** Python · Geospatial Data · Terrain Analysis · Uncertainty Evaluation
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[View Walkback on GitHub](https://github.com/Eman2123/Walkback)
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+### PATCH-LOOP — AI Sandbox Experiment
 
-### ⚙️ Backend & Databases
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+A developer-tool experiment focused on running and managing code tasks in an isolated sandbox environment.
 
-### 🤖 AI / Data / Automation
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![IBM watsonx](https://img.shields.io/badge/IBM_watsonx-1261FE?style=for-the-badge&logo=ibm&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+**Focus:** Python · Sandboxing · Developer Tools · Backend Systems
 
-### ☁️ Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+[View PATCH-LOOP on GitHub](https://github.com/Eman2123/PATCH-LOOP)
 
----
+### Campus AI — University Assistant
 
-## 🚀 Featured Projects
+An AI-powered campus assistant concept for university information, document question-answering, scheduling, and student support.
 
-<table>
-<tr><td width="50%" valign="top">
+**Focus:** Python · FastAPI · AI Applications · Next.js
 
-### 🎓 Campus AI
-AI-powered campus assistant for university information, document Q&A, scheduling, and student support.
+[View Campus AI on GitHub](https://github.com/Eman2123/Campus-AI)
 
-`Python` `FastAPI` `AI Agents` `Next.js`
+### VendorPulse — Supplier Follow-up & Risk Monitoring
 
-<a href="https://github.com/Eman2123/Campus-AI"><img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://campus-ai-opal.vercel.app/"><img src="https://img.shields.io/badge/LIVE%20DEMO-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+A platform for collecting supplier updates, tracking follow-ups, and identifying potential delivery delays.
 
-</td><td width="50%" valign="top">
+**Focus:** FastAPI · Next.js · PostgreSQL · Workflow Automation
 
-### 📈 VendorPulse
-Supplier follow-up and risk monitoring platform that collects vendor updates and flags potential delivery delays.
+[View VendorPulse on GitHub](https://github.com/Eman2123/VendorPlus)
 
-`Next.js` `FastAPI` `PostgreSQL` `Automation`
+### ClerkifyDx — AI-assisted Clinical Intake
 
-<a href="https://github.com/Eman2123/VendorPlus"><img src="https://img.shields.io/badge/VIEW%20PROJECT-14B8A6?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://vendorplus.fastapicloud.dev"><img src="https://img.shields.io/badge/LIVE%20DEMO-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+An AI-assisted clinical intake project designed to structure patient information and support clinician review, with rule-based checks for potential red flags.
 
-</td></tr>
-<tr><td width="50%" valign="top">
+**Focus:** TypeScript · AI Integration · Clinical Workflow Design
 
-### 📰 Verifi News
-Fake-news detection app that analyzes submitted news text and predicts whether it is likely real or fake.
+[View ClerkifyDx on GitHub](https://github.com/Eman2123/ClerkifyDx)
 
-`Python` `FastAPI` `Machine Learning` `Next.js`
+[Explore all my repositories](https://github.com/Eman2123?tab=repositories)
 
-<a href="https://github.com/Eman2123/VerifiNews-"><img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://verifi-news-4zvt.vercel.app"><img src="https://img.shields.io/badge/LIVE%20DEMO-E11D48?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+## Technical Toolkit
 
-</td><td width="50%" valign="top">
+**Languages**  
+Python · JavaScript · TypeScript · PHP · SQL · C++
 
-### 🔁 Vibe Check
-GitLab-native workflow that turns requirements into executable checks, tests fixes, and verifies release and rollback behavior.
+**Backend & Data**  
+FastAPI · Flask · Node.js · Express · PostgreSQL · MySQL · MongoDB · Redis · Supabase
 
-`GitLab Duo` `Python` `FastAPI` `CI/CD`
+**AI & Machine Learning**  
+Hugging Face · LLM APIs · LangChain · LangGraph · NumPy · Pandas · PyTorch
 
-<a href="https://gitlab.com/gitlab-ai-hackathon/transcend-october-2026/37715479/showcase"><img src="https://img.shields.io/badge/PROJECT%20SHOWCASE-F59E0B?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
+**Frontend**  
+React · Next.js · Tailwind CSS
 
-</td></tr>
-<tr><td width="50%" valign="top">
+**Tools & Infrastructure**  
+Git · GitHub Actions · Docker · Linux · Postman · Vercel · Vultr
 
-### ✨ More Projects
-Explore more experiments and builds across AI applications, backend systems, automation, and developer tools.
+## Beyond Web Development
 
-<a href="https://github.com/Eman2123?tab=repositories"><img src="https://img.shields.io/badge/ALL%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+I'm also exploring blockchain engineering through projects and experiments involving Solana, Rust, and smart-contract authorization. I'm especially interested in the security and reliability challenges that appear when autonomous agents interact with external systems.
 
-</td></tr>
-</table>
+I treat this as an active learning area, and I'm focused on understanding the fundamentals before making bigger claims.
 
----
+## How I Build
 
-## 📊 GitHub Analytics
+- Start with the problem, not the technology.
+- Research existing approaches before deciding what to build.
+- Test ideas with working prototypes and measurable checks.
+- Treat debugging and iteration as part of engineering.
+- Keep learning across software, AI, and systems.
+
+## Let's Connect
+
+I'm interested in thoughtful collaborations, practical engineering challenges, and remote opportunities where I can keep growing while contributing real work.
+
+- [GitHub](https://github.com/Eman2123)
+- [LinkedIn](https://www.linkedin.com/in/eman-mirza-926035249/)
+- [Portfolio](https://eman-portfolio-iota.vercel.app/)
+- [Email](mailto:mirzaeman942@gmail.com)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Eman2123&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+**Build with curiosity. Test with discipline. Improve with every iteration.**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eman2123&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,35:2563eb,70:06b6d4,100:14b8a6&height=110&section=footer" width="100%" />
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eman2123&theme=radical&hide_border=true" width="65%" />
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-<img src="https://img.shields.io/badge/🤖%20AI%20AGENTS-BUILDING-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🐍%20PYTHON-BUILDING-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/🌐%20FULL--STACK-BUILDING-0EA5E9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/⚡%20AUTOMATION-EXPLORING-14B8A6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🧠%20SYSTEM%20DESIGN-LEARNING-F59E0B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/☁️%20CLOUD%20%26%20DEVOPS-GROWING-E11D48?style=for-the-badge" />
-</div>
-
----
-
-## 🧩 Things I Love Building
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">🤖<br/><b>AI Agents</b><br/><sub>Agents that reason, use tools & act</sub></td>
-<td align="center" width="25%">⚡<br/><b>Automation</b><br/><sub>Turning repetitive work into workflows</sub></td>
-<td align="center" width="25%">🌐<br/><b>Web Apps</b><br/><sub>Useful, modern & responsive products</sub></td>
-<td align="center" width="25%">🧠<br/><b>Developer Tools</b><br/><sub>Tools that make coding easier</sub></td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📚 Currently Exploring
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🧠%20LLM%20Applications-LEARNING-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🤖%20Agentic%20AI-EXPLORING-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/⚙️%20Advanced%20Automation-BUILDING-06B6D4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/☁️%20Cloud%20Deployment-GROWING-14B8A6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🏗️%20System%20Design-LEARNING-F59E0B?style=for-the-badge" />
-
-</div>
-
----
-
-## 💡 Quick Facts
-
-- ☕ Coffee + code = dangerous combination
-- 🧩 I enjoy debugging problems that refuse to make sense
-- 🔥 I like building projects instead of only watching tutorials
-- 🌱 Always experimenting with a new tool, framework or AI workflow
-- 🎯 I care about **useful products**, not just pretty demos
-- 🌍 Interested in collaborating with developers from around the world
-
----
-
-## 💬 Developer Mindset
-
-<div align="center">
-
-### 💡 Think → Build → Break → Debug → Learn → Ship → Repeat 🚀
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=14B8A6&center=true&vCenter=true&width=700&lines=Building+AI+that+actually+does+things;Turning+ideas+into+products;Learning+something+new+every+day;Code+%2B+Creativity+%2B+Consistency+%F0%9F%92%9C" />
-
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-<a href="mailto:mirzaeman942@gmail.com"><img src="https://img.shields.io/badge/Gmail-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/eman-mirza-926035249/"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Eman2123"><img src="https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<br/><br/>
-💜 Build. Learn. Automate. Ship. Repeat. 🚀
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,30:2563eb,60:06b6d4,100:14b8a6&height=130&section=footer" width="100%" />
 </div>
