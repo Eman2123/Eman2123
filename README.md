@@ -1,124 +1,221 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Eman2123/Eman2123/main/assets/profile-banner.svg" width="100%" alt="Eman Mirza | Python Backend and AI Developer" />
+<img src="https://raw.githubusercontent.com/Eman2123/Eman2123/main/assets/profile-banner.svg" width="100%" alt="Eman Mirza | Python Backend, AI and Machine Learning" />
 
-<p>
-  <a href="https://eman-portfolio-iota.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/eman-mirza-926035249/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://huggingface.co/EmanMirza2025"><img src="https://img.shields.io/badge/Hugging_Face-Models_and_Projects-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
-</p>
+<a href="https://eman-portfolio-iota.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/eman-mirza-926035249/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Eman2123?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+<a href="mailto:mirzaeman942@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=Eman2123&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Eman2123?style=flat-square&color=2563EB&label=FOLLOWERS" alt="GitHub followers" />
 
 </div>
 
-## Hey, I'm Eman.
-
-**Python Backend Developer working on AI-powered applications and machine learning projects.**
-
-I enjoy building practical software, from backend APIs and data workflows to AI agents and ML experiments. I like understanding how systems work, testing ideas, and improving them through hands-on projects.
-
-- **Main focus:** Python, FastAPI, backend engineering
-- **Exploring:** Machine learning, LLM applications, agent workflows
-- **Also work with:** React, Next.js, PostgreSQL and modern web tooling
-- **Currently learning:** Model evaluation, reliable AI systems, and Rust/Solana
-
-## What I'm building
+---
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="62%" valign="middle">
 
-### [PATCH-LOOP](https://github.com/Eman2123/PATCH-LOOP)
-**AI tooling · Sandboxed execution**
+## 👋 About me
 
-Exploring isolated code execution for AI-assisted developer workflows, with a focus on tool boundaries and safer execution.
+I'm a developer focused on **Python backend engineering and AI-powered applications**.
 
-</td>
-<td width="50%" valign="top">
+I started with web development and APIs, then moved into AI integrations, agentic workflows, and hands-on machine learning. I enjoy taking an idea beyond a demo: understanding the problem, building a working system, testing its behavior, and documenting what still needs improvement.
 
-### [Campus AI](https://github.com/Eman2123/Campus-AI)
-**FastAPI · Next.js · AI**
-
-A university assistant project bringing together document question-answering, scheduling, and student support workflows.
+**Currently expanding:** machine learning, model evaluation, AI safety, and reliable agent systems.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="38%" align="center" valign="middle">
 
-### [ClerkifyDx](https://github.com/Eman2123/ClerkifyDx)
-**AI-assisted clinical intake**
+<img src="https://github.com/Eman2123.png" width="145" alt="Eman Mirza GitHub avatar" />
 
-A prototype for structured patient intake, follow-up questions, and rule-based red-flag checks before clinician review.
+**BUILDING WITH**
 
-[Demo video](https://youtu.be/5bS7hfpExYU)
-
-</td>
-<td width="50%" valign="top">
-
-### [VendorPulse](https://github.com/Eman2123/VendorPlus)
-**Backend systems · Workflow automation**
-
-A supplier follow-up platform that collects updates, tracks deadlines, and flags potential delivery risks.
-
-[Live demo](https://vendorplus.fastapicloud.dev)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [TinyAya experiments](https://github.com/Eman2123/tinyaya-idk)
-**Machine learning · Model behavior**
-
-An ML-focused project exploring model uncertainty and when a system should abstain rather than return an unreliable answer.
-
-[Hugging Face](https://huggingface.co/EmanMirza2025)
-
-</td>
-<td width="50%" valign="top">
-
-### [EchoMind](https://github.com/Eman2123/EchoMind)
-**Voice AI · AssemblyAI**
-
-An experiment in voice interaction and memory-oriented AI workflows.
-
-[Live demo](https://echo-mind-trfi.vercel.app/)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Full--Stack-0F766E?style=flat-square" />
 
 </td>
 </tr>
 </table>
 
-[Explore all repositories →](https://github.com/Eman2123?tab=repositories)
-
-## Tools I use
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,mongodb,mysql,redis" alt="Python backend and databases" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind" alt="Frontend technologies" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,supabase" alt="Developer tools" />
-</p>
-
-**AI / ML:** Hugging Face, LangChain, LangGraph, LLM integrations
-
-## A little more
-
-I started with web development and gradually moved deeper into backend engineering and AI. Hackathons and independent projects have given me opportunities to work with unfamiliar tools, build under constraints, and learn by shipping.
-
-My goal is to become a stronger engineer by building systems that are useful, understandable, and dependable.
-
-## Find me online
-
-<p>
-  <a href="https://eman-portfolio-iota.vercel.app/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/eman-mirza-926035249/">LinkedIn</a> ·
-  <a href="https://huggingface.co/EmanMirza2025">Hugging Face</a> ·
-  <a href="https://github.com/Eman2123">GitHub</a>
-</p>
+## ⚙️ Tech stack
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eman2123&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/Eman2123/Eman2123/main/assets/profile-footer.svg" width="100%" alt="Thanks for visiting" />
+
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,sql" alt="Python, JavaScript, TypeScript, C++ and SQL" />
+
+**BACKEND & DATABASES**
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,postgres,mongodb,mysql,redis,supabase" alt="Backend and database technologies" />
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=pytorch,huggingface" alt="Machine learning tools" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-202020?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM%20Integrations-7C3AED?style=for-the-badge" />
+
+**FRONTEND & DEVELOPER TOOLS**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,docker,linux,git,github,postman" alt="Frontend and developer tools" />
+
+</div>
+
+---
+
+## 🚀 Selected projects
+
+A selection of projects across backend engineering, AI, machine learning, and research. Each represents a different problem I've explored.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🧠 TinyAya</h3>
+<b>Machine Learning · AI Safety</b><br/>
+My first ML-focused project, exploring model uncertainty and when a system should abstain instead of giving an unreliable answer.
+
+<br/><br/>
+<a href="https://github.com/Eman2123/tinyaya-idk">View project →</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🌌 Walkback</h3>
+<b>Planetary Terrain · Decision Support</b><br/>
+A research-oriented prototype for estimating return routes within an EVA time budget, with uncertainty analysis and comparisons against higher-resolution Jezero terrain data.
+
+<br/><br/>
+<a href="https://github.com/Eman2123/Walkback">View project →</a> · <a href="https://walkback-rlvz.vercel.app">Live demo →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🧪 PATCH-LOOP</h3>
+<b>AI Tooling · Sandboxed Execution</b><br/>
+Exploring isolated execution for code-oriented AI workflows, with attention to sandbox boundaries, tool permissions, and safer developer experiences.
+
+<br/><br/>
+<a href="https://github.com/Eman2123/PATCH-LOOP">View project →</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🎓 Campus AI</h3>
+<b>FastAPI · Next.js · AI</b><br/>
+A university assistant combining document question-answering, scheduling, and student support workflows through a Python backend.
+
+<br/><br/>
+<a href="https://github.com/Eman2123/Campus-AI">Repository →</a> · <a href="https://campus-ai-opal.vercel.app/">Live demo →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>📈 VendorPulse</h3>
+<b>Backend Systems · PostgreSQL</b><br/>
+A supplier follow-up platform that collects updates, tracks deadlines, and flags potential delivery risks through structured workflows.
+
+<br/><br/>
+<a href="https://github.com/Eman2123/VendorPlus">Repository →</a> · <a href="https://vendorplus.fastapicloud.dev">Live demo →</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🩺 ClerkifyDx</h3>
+<b>AI-assisted Clinical Intake</b><br/>
+A prototype for structured patient intake, focused follow-up questions, and rule-based red-flag checks before clinician review.
+
+<br/><br/>
+<a href="https://github.com/Eman2123/ClerkifyDx">Repository →</a> · <a href="https://youtu.be/5bS7hfpExYU">Demo video →</a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<h3>🎙️ EchoMind · Voice Memory Agent</h3>
+An experiment in voice interaction and memory-oriented AI workflows, using AssemblyAI.
+
+<a href="https://github.com/Eman2123/echo-mind">Repository →</a> · <a href="https://echo-mind-trfi.vercel.app/">Live demo →</a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<a href="https://github.com/Eman2123?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects" /></a>
+</div>
+
+---
+
+## 📚 What I'm learning now
+
+<div align="center">
+
+| Focus | Current direction |
+|:---|:---|
+| **Machine Learning** | Model behavior, evaluation, uncertainty, Hugging Face |
+| **Backend Engineering** | Python, FastAPI, architecture, data workflows |
+| **Agentic AI** | Tool use, orchestration, reliability, safe execution |
+| **Blockchain** | Solana, Rust, Anchor, authorization patterns |
+
+</div>
+
+---
+
+## 📊 GitHub at a glance
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Eman2123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eman2123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Eman2123&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Eman2123&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+
+</div>
+
+---
+
+## 🧭 How I build
+
+<div align="center">
+
+**Research**　→　**Scope**　→　**Build**　→　**Test**　→　**Measure**　→　**Improve**
+
+</div>
+
+I want to grow into an engineer who can take an unfamiliar problem, understand its constraints, build a dependable first version, and communicate clearly about what works and what doesn't.
+
+## 🤝 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/eman-mirza-926035249/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://eman-portfolio-iota.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:mirzaeman942@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br/><br/>
+
+*Curiosity gets me started. Evidence helps me improve.*
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Eman2123/Eman2123/main/assets/profile-footer.svg" width="100%" alt="Thanks for visiting, Eman Mirza" />
+
 </div>
